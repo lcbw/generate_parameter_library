@@ -9,6 +9,10 @@ Additionally, dynamic parameters and custom validation are made easy.
 * Dynamic ROS 2 Parameters made easy
 * Custom user specified validator functions
 
+## Installation Instructions
+CMake 3.20 or above is needed to build all packages
+You'll also need FMT (sudo apt install libfmt-dev)
+
 ## Basic Usage
 1. [Create YAML parameter codegen file](#create-yaml-parameter-codegen-file)
 2. [Add parameter library generation to project](#add-parameter-library-generation-to-project)

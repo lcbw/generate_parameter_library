@@ -2,4 +2,9 @@ repositories:
   rsl:
     type: git
     url: https://github.com/picknikrobotics/RSL
-    version: main
+    version: 'ecd88708f5b4742aa484c87127a1d0f36d2c310d'
+
+  cpp_polyfills:
+        type: git
+        url: https://github.com/picknikrobotics/cpp_polyfills.git
+        version: 1.0.2
